@@ -6,5 +6,6 @@ Algoritmo barquito
 	
 	Escribir "Nuevo tema"
 	Escribir "Mi barquito viene cargado de comidas que comiencen con LETRA E, como Encebollado."
+	Escribir "Encocado" 
 
 FinAlgoritmo
