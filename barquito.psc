@@ -10,5 +10,6 @@ Algoritmo barquito
 	Escribir "Empanadas :)"
 	Escribir "Ensalada"
 	
-	
+	Escribir "Nuevo tema"
+	Escribir "Mi barquito viene cargado de marcas de ropa que comiencen con Letra P, como Pull & Bear."
 FinAlgoritmo
