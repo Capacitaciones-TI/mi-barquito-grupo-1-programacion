@@ -12,4 +12,5 @@ Algoritmo barquito
 	
 	Escribir "Nuevo tema"
 	Escribir "Mi barquito viene cargado de marcas de ropa que comiencen con Letra P, como Pull & Bear."
+	Escribir "Polo"
 FinAlgoritmo
