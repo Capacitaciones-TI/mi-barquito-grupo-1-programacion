@@ -1,4 +1,4 @@
 Algoritmo barquito
-    Escribir "Mi barquito viene cargado de animales que comiencen con LETRA A, como AraÃ±a. Y es un cambio."
-    x=1+1
+    Escribir "Mi barquito viene cargado de animales que comiencen con LETRA A, como Araña."
+	Escribir "Armadillo"
 FinAlgoritmo
