@@ -18,5 +18,6 @@ Algoritmo barquito
 	
 	Escribir "Nuevo tema"
 	Escribir "Mi barquito viene cargado de marcas de licores que comiencen con la Letra C, como Club."
+	Escribir "Caña manabita"
 	
 FinAlgoritmo
