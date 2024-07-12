@@ -20,6 +20,6 @@ Algoritmo barquito
 	Escribir "Mi barquito viene cargado de marcas de licores que comiencen con la Letra C, como Club."
 	Escribir "Caña manabita"
 	Escribir "Cristal"
-	
+	Escribir "Cubata" 
 	
 FinAlgoritmo
